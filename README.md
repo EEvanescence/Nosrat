@@ -40,7 +40,7 @@
 
 $\color{orange} \large \text{بیوگرافی استاد مرتضی نصرت}$
 
-<p align="right">
+<p align="center">
   <br><img src="https://github.com/user-attachments/assets/d55bd8ce-d399-4a9a-9819-e817f302b31f" width="300px">  
 
 
@@ -51,13 +51,10 @@ $\color{orange} \large \text{بیوگرافی استاد مرتضی نصرت}$
 
 استاد مرتضی نصرت پس از سالها فعالیت آموزشی در شامگاه چهارشنبه 19 فروردین 1394 در آمریکا دارفانی را وداع گفت، روحش شاد و نامش گرامی باد.  
 
-
-<center>May his soul rest in peace 🕊️</center>
-
-
-<div style="text-align: center;">
- May his soul rest in peace 🕊️
-</div>
+<h5
+align="center"> 
+May his soul rest in peace 🕊️
+</h5>  
 
 
 [روش پیمزلر]: <https://fa.m.wikipedia.org/wiki/%D9%BE%D9%84_%D9%BE%DB%8C%D9%85%D8%B2%D9%84%D8%B1>
